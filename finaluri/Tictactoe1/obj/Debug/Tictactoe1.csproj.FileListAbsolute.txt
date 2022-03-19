@@ -1,0 +1,11 @@
+C:\Users\JAPHARIDZE\Desktop\Tictactoe1\Tictactoe1\bin\Debug\Tictactoe1.exe.config
+C:\Users\JAPHARIDZE\Desktop\Tictactoe1\Tictactoe1\bin\Debug\Tictactoe1.exe
+C:\Users\JAPHARIDZE\Desktop\Tictactoe1\Tictactoe1\bin\Debug\Tictactoe1.pdb
+C:\Users\JAPHARIDZE\Desktop\Tictactoe1\Tictactoe1\obj\Debug\Tictactoe1.csproj.AssemblyReference.cache
+C:\Users\JAPHARIDZE\Desktop\Tictactoe1\Tictactoe1\obj\Debug\Tictactoe1.csproj.SuggestedBindingRedirects.cache
+C:\Users\JAPHARIDZE\Desktop\Tictactoe1\Tictactoe1\obj\Debug\Tictactoe1.Tictactoe.resources
+C:\Users\JAPHARIDZE\Desktop\Tictactoe1\Tictactoe1\obj\Debug\Tictactoe1.Properties.Resources.resources
+C:\Users\JAPHARIDZE\Desktop\Tictactoe1\Tictactoe1\obj\Debug\Tictactoe1.csproj.GenerateResource.cache
+C:\Users\JAPHARIDZE\Desktop\Tictactoe1\Tictactoe1\obj\Debug\Tictactoe1.csproj.CoreCompileInputs.cache
+C:\Users\JAPHARIDZE\Desktop\Tictactoe1\Tictactoe1\obj\Debug\Tictactoe1.exe
+C:\Users\JAPHARIDZE\Desktop\Tictactoe1\Tictactoe1\obj\Debug\Tictactoe1.pdb
